@@ -1,3 +1,11 @@
+# Tips(written by Tan Ying)
+Use `sudo -s` first to get root permission
+
+
+
+
+
+
 # PyJoules
 
 [![License: MIT](https://img.shields.io/pypi/l/pyRAPL)](https://spdx.org/licenses/MIT.html)
